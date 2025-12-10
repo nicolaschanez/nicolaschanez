@@ -30,7 +30,7 @@ Voici quelques-unes des technologies avec lesquelles j'aime travailler et expér
 Je sais aussi coder en **JavaScript**, **PHP** et **C**. J'ai aussi des **compétences** en **réseau** et en **gestion de projet**. Je suis **également** prêt à apprendre d'autres **langages**, et j'apprends vite.
 
 ---
-##✨ Projets Phares
+## ✨ Projets Phares
 
 Ces dépôts représentent au mieux mon expertise en développement système et algorithmie.
 
