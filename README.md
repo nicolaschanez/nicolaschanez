@@ -6,7 +6,7 @@ Je suis un étudiant en **Informatique (Bac+3)** **passionné** par l'**Algorith
 
 > **Mon engagement :** Transformer mes **passions** en **solutions logicielles** optimales.
 
-### ⚙️ Mon Expertise
+### ⚙️ Mon Histoire
 
 Depuis près de 5 ans, je **crée des moteurs de jeu** et des outils personnalisés *from scratch*. Cette expérience m'a doté d'une compréhension profonde de :
 * L'algorithmie et la résolution de **problèmes**.
@@ -16,7 +16,7 @@ Depuis près de 5 ans, je **crée des moteurs de jeu** et des outils personnalis
 
 ---
 
-## 💻 Ma Stack Technique & Mes Outils
+## 💻 Mes outils
 
 Voici quelques-unes des technologies avec lesquelles j'aime travailler et expérimenter :
 
@@ -27,13 +27,12 @@ Voici quelques-unes des technologies avec lesquelles j'aime travailler et expér
 | **Web (Outils/Front)** | HTML5, CSS3 |
 | **Bases de Données** | SQL |
 
----
-
 Je sais aussi coder en **JavaScript**, **PHP** et **C**. J'ai aussi des **compétences** en **réseau** et en **gestion de projet**. Je suis **également** prêt à apprendre d'autres **langages**, et j'apprends vite.
 
-## Projets Phares
+---
+##✨ Projets Phares
 
-Ces dépôts représentent le mieux mon expertise en développement système et algorithmie.
+Ces dépôts représentent au mieux mon expertise en développement système et algorithmie.
 
 * ### Moteur Python
     * **Description :** **Élément algorithmique** de moteur 2D développé en **Python** gérant le rendu, la physique ou encore la **lumière**. Développé en **Tkinter from scratch**.
