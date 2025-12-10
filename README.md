@@ -34,7 +34,7 @@ Je sais aussi coder en **JavaScript**, **PHP** et **C**. J'ai aussi des **compé
 
 Ces dépôts représentent au mieux mon expertise en développement système et algorithmie.
 
-* ### Moteur Python
+### Moteur Python
     * **Description :** **Élément algorithmique** de moteur 2D développé en **Python** gérant le rendu, la physique ou encore la **lumière**. Développé en **Tkinter from scratch**.
     * **Techniques clés :** Divers **algorithmes** recherchés et adaptés au projet mené.
     * [🔗 Voir le Dépôt](Lien_Vers_Votre_Dépôt_Moteur)
